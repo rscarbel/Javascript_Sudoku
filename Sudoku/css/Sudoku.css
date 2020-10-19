@@ -1,0 +1,40 @@
+body{
+  margin: auto;
+  padding-top: 1vw;
+  text-align: center;
+  border-left: solid #454545 15vw;
+  border-right: solid #454545 15vw;
+  border-top: solid #454545 1vw;
+}
+table {
+  margin: auto;
+  text-align: center;
+  border-collapse: collapse;
+  font-family: Calibri, sans-serif;
+  border: solid black .4vw;
+}
+
+colgroup, tbody {
+  border: solid medium;
+}
+.jumbotron {
+  padding-top: .5vw;
+  padding-bottom: .5vw;
+  padding-left: 0px;
+  padding-right: 0px;
+  border-radius: 2em 2em 2em 2em;
+}
+td {
+  background-color: #f5f5f5;
+  text-align: center;
+  margin: auto;
+  border: solid thin;
+  width: 3.5vw;
+  height: 3.7vw;
+  font-size: 2vw;
+  text-align: center;
+  padding: 0;
+}
+#new_game {
+
+}
